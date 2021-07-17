@@ -28,7 +28,7 @@ function App() {
   return (
     <div>
       <div>
-        <img src="https://www.algorismic.uz/images/algorismic-02.svg" alt="https://www.algorismic.uz/" className="text-r" />
+        <a href="https://www.algorismic.uz/"><img src="https://www.algorismic.uz/images/algorismic-02.svg" alt="" className="text-r" /></a>
         <h1 className="title">Calculator</h1>
         <div className="container">
           <form>
